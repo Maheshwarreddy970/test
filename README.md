@@ -88,3 +88,4 @@ For custom domains, make sure to:
 
 1. Add your root domain to Vercel
 2. Set up a wildcard DNS record (`*.yourdomain.com`) on Vercel
+# test
