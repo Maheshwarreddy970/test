@@ -3,7 +3,7 @@ import type { NextRequest } from "next/server";
 
 // Example static mapping for testing
 const customDomainMap: Record<string, string> = {
-  "test.mnreddyconstructions.in": "tomy",
+  "test.superworldtechnologies.com": "tomy",
 };
 
 export async function middleware(req: NextRequest) {
